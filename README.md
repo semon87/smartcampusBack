@@ -7,7 +7,7 @@ This is the backend API for the Smart Campus Ordering System. It supports user r
 ## Features
 
 - **Student Registration & Login**  
-- **Vendor Registration & Login (with photo upload support)**  
+- **Vendor Registration & Login **  
 - **JWT Bearer Token Authentication**  
 - **Menu Item CRUD by Vendors**  
 - **Students can browse vendors and view menus**  
