@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\test\\Dev\\Dev\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:controllers\\vendorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\models\\studentregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:models\\studentregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\test\\Dev\\Dev\\Migrations\\20250524103938_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250524103938_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\models\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:models\\menuitemcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:models\\vendor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\models\\vendorregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:models\\vendorregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\test\\Dev\\Dev\\Migrations\\20250524094602_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20250524094602_in.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\models\\menuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:models\\menuitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\migrations\\20250524082826_try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:migrations\\20250524082826_try.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\models\\paymenttransection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:models\\paymenttransection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\migrations\\20250524080109_another.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:migrations\\20250524080109_another.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\data layer\\smartcampuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:data layer\\smartcampuscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\migrations\\20250524071625_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:migrations\\20250524071625_new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|d:\\test\\dev\\dev\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D65B4646-7C40-46E2-981B-BD905FD44214}|Dev.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250524103938_init.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Migrations\\20250524103938_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250524103938_init.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Migrations\\20250524103938_init.cs",
+              "RelativeToolTip": "Migrations\\20250524103938_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:39:39.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250524094602_in.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Migrations\\20250524094602_in.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250524094602_in.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Migrations\\20250524094602_in.cs",
+              "RelativeToolTip": "Migrations\\20250524094602_in.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T09:46:02.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAiwFcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:23:29.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentRegistrationDto.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Models\\StudentRegistrationDto.cs",
+              "RelativeDocumentMoniker": "Models\\StudentRegistrationDto.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Models\\StudentRegistrationDto.cs",
+              "RelativeToolTip": "Models\\StudentRegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:48:05.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VendorController.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Controllers\\VendorController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VendorController.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Controllers\\VendorController.cs",
+              "RelativeToolTip": "Controllers\\VendorController.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwIoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:15:29.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuItemCreateDto.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Models\\MenuItemCreateDto.cs",
+              "RelativeDocumentMoniker": "Models\\MenuItemCreateDto.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Models\\MenuItemCreateDto.cs",
+              "RelativeToolTip": "Models\\MenuItemCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T10:37:11.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VendorRegistrationDto.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Models\\VendorRegistrationDto.cs",
+              "RelativeDocumentMoniker": "Models\\VendorRegistrationDto.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Models\\VendorRegistrationDto.cs",
+              "RelativeToolTip": "Models\\VendorRegistrationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:01:03.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vendor.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Models\\Vendor.cs",
+              "RelativeDocumentMoniker": "Models\\Vendor.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Models\\Vendor.cs",
+              "RelativeToolTip": "Models\\Vendor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:59:28.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:02:53.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\test\\Dev\\Dev\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-24T05:19:27.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuItems.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Models\\MenuItems.cs",
+              "RelativeDocumentMoniker": "Models\\MenuItems.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Models\\MenuItems.cs",
+              "RelativeToolTip": "Models\\MenuItems.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:00:01.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:05:19.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250524082826_try.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Migrations\\20250524082826_try.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250524082826_try.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Migrations\\20250524082826_try.cs",
+              "RelativeToolTip": "Migrations\\20250524082826_try.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:28:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:57:47.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PaymentTransection.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Models\\PaymentTransection.cs",
+              "RelativeDocumentMoniker": "Models\\PaymentTransection.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Models\\PaymentTransection.cs",
+              "RelativeToolTip": "Models\\PaymentTransection.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAgwB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:01:18.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250524080109_another.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Migrations\\20250524080109_another.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250524080109_another.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Migrations\\20250524080109_another.cs",
+              "RelativeToolTip": "Migrations\\20250524080109_another.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T08:01:09.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SmartCampusContext.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Data Layer\\SmartCampusContext.cs",
+              "RelativeDocumentMoniker": "Data Layer\\SmartCampusContext.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Data Layer\\SmartCampusContext.cs",
+              "RelativeToolTip": "Data Layer\\SmartCampusContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:04:20.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250524071625_new.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Migrations\\20250524071625_new.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250524071625_new.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Migrations\\20250524071625_new.cs",
+              "RelativeToolTip": "Migrations\\20250524071625_new.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T07:16:25.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:00:50.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\test\\Dev\\Dev\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\test\\Dev\\Dev\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAIBQwC4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:00:26.006Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
